@@ -10,7 +10,7 @@ Users can input news headlines or full articles into the application, which eval
 This application aims to empower individuals and organizations to make informed decisions by minimizing the spread of misinformation. It also serves as a practical implementation of NLP and Flask, showcasing the potential of artificial intelligence in addressing societal challenges.
 
 ## Deployment Steps:
-Make sure you have installed Python 3.12
+Make sure you have installed Python 3.12.**
 
 ## Create a Virtual Environment
 ```bash
